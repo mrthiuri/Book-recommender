@@ -3,11 +3,10 @@
 Book recommender using [Goodreads](https://www.goodreads.com) dataset and cosine similarity with NLP-based content filtering.
 
 ## 🚀 **Features**
-
-- Content-based filtering using cosine similarity
-- Clean interface powered by Gradio
-- Lightweight and easy to use
-- Based on real Goodreads data
+- 🎯 Smart Content-Based Filtering – Uses cosine similarity on TF-IDF features to deliver personalized book recommendations based on your reading preferences.
+- 🎨 Clean Gradio Interface – Intuitive, responsive, and beautifully designed UI that runs in the browser with zero setup.
+- 📚 Real Goodreads Dataset – Built on real-world data from thousands of Goodreads users, ensuring meaningful and reliable recommendations.
+- ⚡ Lightweight & Fast – Optimized for speed and minimal resource usage, delivering instant recommendations
 
 ## 📁 **Dataset**
 
