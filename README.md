@@ -28,6 +28,8 @@ To ensure fast and smooth functionality, key data structures are precomputed and
 
 The system uses **TF-IDF vectorization** on a combination of book titles, descriptions and tag lines to compute **cosine similarity** between them. Given a book the user enjoyed (or selects from top-rated books), the system recommends similar books based on content similarity.
 
+📌 For a more detailed breakdown of the entire process — including data preprocessing, TF-IDF modeling and similarity computation check out the [`book_recommender.ipynb`](assets/book_recommender.ipynb) notebook in the `assets/` directory.
+
 ## 🔗 Live Demo
 
 Try the app live on [Hugging Face Spaces](https://huggingface.co/spaces/mrthiuri/book_recommender)
