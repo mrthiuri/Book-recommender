@@ -1,6 +1,6 @@
 # 📚 **Book Recommender System**
 
-Book recommender using (Goodreads)[https://www.goodreads.com/] dataset and cosine similarity with NLP-based content filtering.
+Book recommender using [Goodreads](https://www.goodreads.com) dataset and cosine similarity with NLP-based content filtering.
 
 ## 🚀 **Features**
 
